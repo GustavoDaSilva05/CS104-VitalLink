@@ -1,6 +1,6 @@
 {
   "patient": {
-    "name": "Bilbo Baggins",
+    "name": "Gandalf",
     "dob": "2890-09-22",
     "mrn": "123456"
   },
@@ -12,6 +12,6 @@
     "heart_rate": "68 bpm",
     "temperature": "98.4 F"
   },
-  "assessment": "Excellent health for a hobbit of his age.",
+  "assessment": "Excellent health for a Wizard of his age.",
   "plan": "Maintain balanced diet, regular walks, and minimal dragon exposure."
 }
